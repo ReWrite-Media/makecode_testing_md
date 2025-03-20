@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "test.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "test2.md"
     ],
     "testFiles": [],
     "public": true,
