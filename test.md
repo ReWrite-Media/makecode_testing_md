@@ -16,5 +16,5 @@ MakeCode testing.
 \\
 ```
 ```package
-makecode_testing=github:ReWrite-Media/makecode_testing#v0.0.3
+makecode_testing=github:ReWrite-Media/makecode_testing#v0.0.4
 ```
