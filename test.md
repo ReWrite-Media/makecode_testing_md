@@ -10,10 +10,11 @@ MakeCode testing.
 
 ```ghost
     makecodeTest.count_to_20()
+    makecodeTest.say_hi()
 ```
 ```template
-    makecodeTest.count_to_20()   
+\\
 ```
 ```package
-makecode_testing=github:ReWrite-Media/makecode_testing
+makecode_testing=github:ReWrite-Media/makecode_testing#v0.0.3
 ```
